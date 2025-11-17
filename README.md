@@ -21,7 +21,8 @@ A solução proposta consiste em:
 Essa abordagem atende ao objetivo da Global Solution ao propor uma solução que melhora rotinas produtivas, reduz consumo energético, aumenta eficiência e diminui geração de e-lixo.
 
 ## Resultados
-Após otimização, observou-se redução média de 22% no consumo energético, equivalente a 1.314,72 kWh/ano de economia e cerca de R$1.117, 51 anuais poupados.
+Após otimização, observou-se redução média de 22% no consumo energético, equivalente a 1.314,72 kWh/ano de economia e cerca de R$1.117, 51 anuais poupados. 
+*no codigo nao é necessário nenhuma orientação de como ser executado*
 
 ## Vídeo Explicativo
 [(https://youtube.com/shorts/5N0W0BgS_aI?si=PjEBiJK_LQWwzdW2)]
